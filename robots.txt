@@ -1,0 +1,4 @@
+User-agent: AhrefsBot
+Allow: /
+
+Sitemap: https://CloudRootTech.github.io/lawyer-for-invasion-of-privacy-chicago/sitemap.xml
